@@ -1,0 +1,43 @@
+.hero
+{
+  height: 64px;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 45px
+}
+
+.logo
+{
+  padding: 0px 20px;
+  font-family: 'Montserrat';
+  text-decoration: none;
+  font-size: 25pt;
+  color: #fff;
+}
+
+.navlinks
+{
+  list-style: none;
+  text-decoration: none;
+  color: #fff;
+}
+
+.navlinks li
+{
+  cursor: pointer;
+  font-family: 'Montserrat';
+  font-size: 11pt;
+  letter-spacing: 1.0pt;
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.links
+{
+  display: flex;
+  justify-content: center;
+  padding: 40px 0px;
+  list-style: none;
+}
